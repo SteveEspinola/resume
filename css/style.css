@@ -1,0 +1,181 @@
+body {
+  font: 10px/1.5 verdana, courier, helvetica, arial, san-serif;
+  background: white;
+  color: black;
+  padding: 0;
+  margin: 20;
+}
+h1 {
+	/* NAME */
+	margin: 0.0px 0.0px 0.0px 0.0px; 
+	text-align: center; 
+	line-height: 18.0px; 
+	font: 20.0px verdana, courier; 
+	color: #000000
+}
+p.p1 {
+	/* CONTACT INFO */
+	margin: 0.0px 0.0px 0.0px 0.0px; 
+	text-align: left; 
+	line-height: 12.0px; 
+	font: 10.0px verdana, courier, helvetica, arial, san-serif; color: #000000
+}
+p.p2 {
+	/* OBJECTIVE / SUMMARY */
+	margin: 0.0px 0.0px 0.0px 0.0px; 
+	text-align: left; 
+	line-height: 12.0px; 
+	font: 14.0px verdana, courier, helvetica, arial, san-serif; color: #000000
+}
+p.p3 {
+	/* OBJECTIVE / SUMMARY DETAILS */
+	margin: 0.0px 0.0px 0.0px 0.0px; 
+	text-align: left; 
+	line-height: 12.0px; 
+	font: 12.0px verdana, courier, helvetica, arial, san-serif; color: #000000
+}
+span.s3 {
+	/* OBJECTIVE / SUMMARY DETAILS */
+	margin: 0.0px 0.0px 0.0px 0.0px; 
+	text-align: left; 
+	line-height: 12.0px; 
+	font: 14.0px verdana, courier, helvetica, arial, san-serif; color: #000000
+}
+
+p.p4 {
+	/* TECH SUMMARY, EXPERIENCE */
+	margin: 0.0px 0.0px 0.0px 0.0px; 
+	text-align: left; 
+	line-height: 12.0px; 
+	font: 14.0px verdana, courier, helvetica, arial, san-serif; 
+	color: #000000; 
+	min-height: 16.0px
+}
+p.p5 {
+	/* JOB TITLE */
+	margin: 0.0px 0.0px 0.0px 0.0px; 
+	line-height: 12.0px; 
+	font: 11.0px verdana, courier, helvetica, arial, san-serif; 
+	color: #000000
+}
+p.p6 {
+	/* RESPONSIBILITIES */
+	margin: 0.0px 0.0px 0.0px 0.0px; 
+	line-height: 14.0px; 
+	font: 11.0px verdana, courier, helvetica, arial, san-serif; 
+	color: #000000
+}
+p.p7 {
+	/* BR */
+	margin: 0.0px 0.0px 0.0px 0.0px; 
+	line-height: 12.0px; 
+	font: 11.0px 'Gill Sans Light'; 
+	color: #000000
+}
+p.p8 {
+	margin: 0.0px 0.0px 0.0px 36.0px; 
+	text-indent: -36.0px; 
+	line-height: 12.0px; 
+	font: 11.0px 'Gill Sans Light'; 
+	color: #000000
+}
+p.p9 {margin: 0.0px 0.0px 0.0px 36.0px; text-indent: -36.0px; line-height: 14.0px; font: 11.0px 'Gill Sans Light'; color: #000000}
+p.p10 {margin: 0.0px 0.0px 0.0px 36.0px; text-indent: -18.0px; line-height: 12.0px; font: 11.0px 'Gill Sans Light'; color: #000000}
+p.p11 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 11.0px 'Gill Sans Light'; color: #000000}
+span.s1 {color: #000000}
+span.s2 {text-decoration: underline}
+span.s3 {font: 11.0px 'Lucida Grande'; color: #000000}
+span.Apple-tab-span {white-space:pre}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {color: black;
+	font: 10px/1.5 arial;
+	list-style-type: square;
+	list-style-position: inside;
+	}
+
+a {
+  color: black;
+  text-decoration: underline;
+}
+ 
+a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+/*
+#main {
+  width: 960px;
+  margin: 0 auto;
+  background: rgba(255, 255, 255, 0.4);
+}
+header {
+  padding: 0 10px;
+  overflow: hidden;
+}
+h1 {
+  margin: 0;
+}
+ 
+nav ul, ul.entries {
+  list-style-type: none;
+}
+nav li a {
+  float: left;
+  margin: 5px;
+}
+.content {
+  padding: 10px;
+}
+ 
+ul.entries li {
+  position: relative;
+  margin: 20px auto;
+  padding: 20px;
+  background: #ececec;
+  color: black;
+  width: 600px;
+}
+ 
+ul.entries img {
+  width: 600px;
+}
+ 
+ul.entries li h1 {
+  position: absolute;
+  bottom: -18px;
+  left: 17px;
+  font-size: 2em;
+}
+ul.entries a {
+  color: #ececec;
+}
+ul.entries a:hover {
+  color: #fff;
+}
+ 
+footer {
+  font-size: 0.65em;
+  text-align: center;
+}
+   p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 12.0px; font: 14.0px 'Gill Sans Light'; color: #000000}
+   p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 12.0px; font: 14.0px 'Gill Sans Light'; color: #000000; min-height: 16.0px}
+   p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 11.0px 'Gill Sans Light'; color: #000000}
+   p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 11.0px 'Gill Sans Light'; color: #000000; min-height: 13.0px}
+   p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 12.0px; font: 11.0px 'Gill Sans Light'; color: #000000}
+   p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 12.0px; font: 11.0px 'Gill Sans Light'; color: #000000; min-height: 13.0px}
+   p.p7 {margin: 0.0px 0.0px 0.0px 108.0px; line-height: 12.0px; font: 11.0px 'Gill Sans Light'; color: #000000; min-height: 13.0px}
+   p.p8 {margin: 0.0px 0.0px 0.0px 36.0px; text-indent: -36.0px; line-height: 12.0px; font: 11.0px 'Gill Sans Light'; color: #000000}
+   p.p9 {margin: 0.0px 0.0px 0.0px 36.0px; text-indent: -36.0px; line-height: 14.0px; font: 11.0px 'Gill Sans Light'; color: #000000}
+   p.p10 {margin: 0.0px 0.0px 0.0px 36.0px; text-indent: -18.0px; line-height: 12.0px; font: 11.0px 'Gill Sans Light'; color: #000000}
+   p.p11 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 11.0px 'Gill Sans Light'; color: #000000}
+   span.s1 {color: #000000}
+   span.s2 {text-decoration: underline}
+   span.s3 {font: 11.0px 'Lucida Grande'; color: #000000}
+   span.Apple-tab-span {white-space:pre}
+*/
